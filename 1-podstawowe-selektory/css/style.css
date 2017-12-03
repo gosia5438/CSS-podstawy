@@ -17,6 +17,7 @@ li a {
 h2 + h3 {
     color: green;
 }
+jjj
 
 /*wszystko xza wyjatkiem czegos co zawiera last*/
 ul> li:not(.last) {
