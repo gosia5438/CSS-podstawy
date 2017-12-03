@@ -4,3 +4,24 @@ body {
 div {
  margin-bottom: 5px;   
 }
+#kolory-predefiniowane {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+#kolory-heksa {
+    width: 200px;
+    height: 100px;
+    background-color: #f75;
+/*   od 0-9 od a -f  ctr+e do dobieranie kolorow*/
+}
+#kolory-rgb {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(55,12,42);
+}
+#kolory-rgba {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(00,00,00, 0.8);
+}
